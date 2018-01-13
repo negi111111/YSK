@@ -1,0 +1,17 @@
+課題６用のメモ
+
+参考文献
+OpenCV 2.4.2 サンプルのmatching_to_many_imagesを試してみた 
+http://iwaki2009.blogspot.jp/2012/07/opencv-242-matchingtomanyimages.html
+
+matching_to_many_imagesの使い方
+./matching_to_many_images SURF SURF FlannBased a1.jpg trainImages.txt results
+
+https://mvassilevich-test.googlecode.com/hg-history/32115b67a6eaadf555ff29f35a2fa1f1f4440721/src/python/OpenCV/DOC/samples/cpp/matching_to_many_images/?r=32115b67a6eaadf555ff29f35a2fa1f1f4440721
+クエリ画像は上のURLから
+
+SURF特徴料
+http://techtipshoge.blogspot.jp/2014/05/opencv11surf_3.html
+
+C++のよさげな学習サイト
+http://vivi.dyndns.org/tech/cpp/cpp.html
