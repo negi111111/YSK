@@ -1,2 +1,3 @@
 # YSK
-archives
+archivesi
+卒研のときにやってた課題のクソコード．邪魔なのでアップした
